@@ -53,7 +53,8 @@ Then run : `java -jar \target\game-library-0.3.0-ALPHA.jar`. The version may var
 
 *And it's done : the program will be launched through the embedded tomcat server using port 8080.*
 
-## Current version
+## Current version (you are in a backup branch)
+
 #### 0.3.0-ALPHA
 Theme CRUD feature, exposed on the service's API.
 
